@@ -1,2 +1,3 @@
-# modern-api-service-gx1a
-A repository to test GitHub automation for issue management
+# Modern Api Service Gx1A
+
+A repository to test GitHub automation for issue management.
